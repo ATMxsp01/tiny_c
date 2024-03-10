@@ -38,6 +38,7 @@ overcome the challenges. Good luck to me!
 ## Structure
 
 The structure of this project in tree comes as follows:
+```
 .
 ├── README.md
 ├── build
@@ -46,13 +47,16 @@ The structure of this project in tree comes as follows:
 │   └── dev
 ├── include
 ├── src
+│   ├── debugger
 │   ├── interpreter
 │   ├── lexical_analyzer
 │   ├── parser
 │   └── preprocessor
+├── test
 └── xmake.lua
 
-9 directories, 3 files
+11 directories, 3 files
+```
 
-Updated in 2024-03-10 Sun 23:47:31
+Updated in 2024-03-11 Mon 00:15:40
 
